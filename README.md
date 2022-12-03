@@ -1,4 +1,4 @@
-# DockerBuild-RaspberryPi64-DokuWiki
+# docker-rpi-dokuWiki
 RaspberryPi(64bit)にDockerでDokuWikiを構築（Wiki構築）
 
 ## コンテナ起動
